@@ -545,3 +545,10 @@ ON orders.customerID = customers.customerID
 GROUP BY customerName;
 
 Testing stash
+
+this is test
+
+to check if the change exist
+
+3rd commit
+
